@@ -81,8 +81,8 @@ LLMs primarily use the transformer architecture, introduced in the paper “Atte
 Processes input data and encodes it into a rich representation.
 #### Decoder:
 Generates output from the encoded representation, used for tasks like text generation and translation.
-<img width="715" height="982" alt="image" src="https://github.com/user-attachments/assets/70a25f9c-afa5-4b64-8e4a-7eeb06731b08" />
 
+<img width="715" height="982" alt="image" src="https://github.com/user-attachments/assets/70a25f9c-afa5-4b64-8e4a-7eeb06731b08" />
 ### Key Features
 #### Attention Mechanism: 
 Enables the model to focus on relevant parts of the input sequence, allowing for better context understanding.
