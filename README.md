@@ -73,7 +73,7 @@ Generative models can suggest compounds with specific properties, accelerating r
 Large Language Models (LLMs) are a type of artificial intelligence that can understand and generate human-like text based on the input they receive. These models are built using advanced machine learning techniques, particularly deep learning architectures like transformers. Below is a detailed report outlining the key aspects of LLMs, including their architecture, training, applications, and challenges.
 
 ### 4.1. Architecture
-Transformers
+#### Transformers
 #### Foundation: 
 LLMs primarily use the transformer architecture, introduced in the paper “Attention is All You Need” by Vaswani et al. (2017). This architecture revolutionized natural language processing (NLP) by effectively handling sequential data through self-attention mechanisms.
 #### Components:
