@@ -111,7 +111,7 @@ Generates concise summaries from larger texts, useful for news articles and rese
 #### Sentiment Analysis:
 Analyzes and determines the sentiment behind customer reviews and social media posts.
 ### 5. Challenges
-Ethical Considerations
+#### Ethical Considerations
 #### Bias:
 LLMs can propagate biases present in the training data, leading to unfair treatment of different groups when generating text.
 #### Misinformation: 
