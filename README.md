@@ -1,7 +1,7 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ```
-Reg No: 2122223040048
-Name: GOGINENI BIDHISHA
+Reg No: 212222220059
+Name: Yamesh R
 ```
 Experiment:
 Develop a comprehensive report for the following exercises:
